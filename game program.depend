@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524409429 source:c:\users\leader\desktop\game program\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

@@ -1,0 +1,11 @@
+blade 31
+toxicnoodles -9
+chair 0
+phone 0
+car 12
+shield 22
+tissue 0
+shabbycloth -6
+powerspell 16
+fellow 99
+expiredpizza -10
